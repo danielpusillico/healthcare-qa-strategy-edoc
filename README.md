@@ -1,6 +1,10 @@
 # Healthcare Appointment System – QA Strategy & Automation Portfolio  
 (Sistema de Turnos Médicos – Estrategia QA y Portfolio de Automatización)
 
+![QA Portfolio](https://img.shields.io/badge/QA-Portfolio-blue)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-green)
+![Healthcare Domain](https://img.shields.io/badge/Domain-Healthcare-red)
+![Phase](https://img.shields.io/badge/Phase-Manual%20Completed-success)
 ---
 
 ## Project Overview (Resumen del Proyecto)
@@ -12,6 +16,17 @@ This project demonstrates a complete end-to-end QA lifecycle applied to a health
 The objective was to simulate a real professional QA process including requirements analysis, test design, defect management, and preparation for automation.
 
 (El objetivo fue simular un proceso profesional real de QA incluyendo análisis de requerimientos, diseño de pruebas, gestión de defectos y preparación para automatización.)
+
+---
+## System Under Test (Sistema Bajo Prueba)
+
+This QA project was executed against the following open-source healthcare appointment system:
+
+https://github.com/HashenUdara/edoc-doctor-appointment-system
+
+The system simulates a real-world medical appointment platform including role-based access, patient registration and session scheduling.
+
+(Este proyecto QA fue ejecutado sobre un sistema open-source que simula una plataforma real de turnos médicos.)
 
 ---
 
@@ -62,6 +77,14 @@ The following QA activities were performed:
 - Healthcare Domain Testing (Testing en Dominio de Salud)
 - Traceability & Coverage Validation (Validación de Trazabilidad y Cobertura)
 
+## Tools & Technologies (Herramientas y Tecnologías)
+
+- Markdown Documentation
+- Structured Test Case Design
+- Risk-Based Testing Approach
+- Defect Severity Classification Model
+- Manual Testing Framework
+  
 ---
 
 ## Testing Types Covered (Tipos de Pruebas Cubiertos)
